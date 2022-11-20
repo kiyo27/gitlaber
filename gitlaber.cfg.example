@@ -1,0 +1,4 @@
+[GitLab]
+url = https://gitlab.com
+project_id = xxxxxx
+private_token = xxxxxxxx
